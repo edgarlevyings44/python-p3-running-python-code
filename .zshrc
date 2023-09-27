@@ -1,0 +1,1 @@
+export PATH="PATH:/home/levy/.local/bin"
